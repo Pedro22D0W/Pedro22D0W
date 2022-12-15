@@ -1,6 +1,5 @@
 ## Hello, my name is Pedro Rodolfo!!!👋
-### 💻I'm a Brazilian Computer Engineering student at the Pontifical Catholic University of Campinas (PUCC), I'm a typical nerd, I like Games, Comics, Anime and Gym...
-💪🏼 
+### 💻I'm a Brazilian Computer Engineering student at the Pontifical Catholic University of Campinas(PUCC), I'm a typical nerd, I like Games, Comics, Anime and Gym...💪🏼 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro22D0W&langs_count=8&layout=compact&theme=dracula)
 
