@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro22D0W&langs_count=8&layout=compact&theme=dracula)
 
 
-## Technologies loaded
+## Technologies loaded👾
 ![assembly](https://img.shields.io/badge/assembly-FF2D20?style=for-the-badge&logo=nasm&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -13,6 +13,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Technologies in loading....
+## Technologies in loading....⌛
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whitee)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
